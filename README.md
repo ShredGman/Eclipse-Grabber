@@ -13,7 +13,7 @@
   <img  src="https://img.shields.io/github/last-commit/ShredGman/Eclipse-Grabber?color=c16d00&logoColor=c16d00">
   <img  src="https://img.shields.io/github/license/ShredGman/Eclipse-Grabber?color=c16d00">
   <br>
-  <img  src="https://img.shields.io/github/issues/ShredGman/Luna-Grabber?color=c16d00&logoColor=c16d00">
+  <img  src="https://img.shields.io/github/issues/ShredGman/Eclipse-Grabber?color=c16d00&logoColor=c16d00">
   <img  src="https://img.shields.io/github/issues-closed/ShredGman/Eclipse-Grabber?color=c16d00&logoColor=c16d00">
   <br>
   <p align="center">
